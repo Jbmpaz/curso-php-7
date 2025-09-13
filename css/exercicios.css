@@ -1,0 +1,30 @@
+body {
+   grid-template-rows: 100px auto auto 100px !important;
+}
+.breadcrumb {
+    padding: 20px 20px 0px 20px;
+}
+.breadcrumb a {
+    display: inline-block;
+    padding: 5px 10px;
+    color: var(--light) !important;
+    border-radius: var(--radius);
+}
+.breadcrumb .container {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 20px;
+}
+.breadcrumb a.green {
+    background-color: #9e0000;
+}
+.breadcrumb a.red {
+    background-color: #009e00;
+}
+.titulo {
+    font-size: 2.3rem;
+    font-weight: 600;
+    margin-bottom: 15px;
+    border-bottom: 2px solid var(--dark);
+}
