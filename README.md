@@ -56,10 +56,3 @@ Pretendo **retomar e concluir o curso futuramente**, aprofundando ainda mais meu
 Este repositório tem fins **educacionais**.  
 O conteúdo segue a estrutura do curso, com adaptações e testes pessoais.
 
----
-
-## 👤 Autor
-
-**Joel Batista**  
-💼 Desenvolvedor Front-end / PHP  
-🌐 GitHub: https://github.com/Jbmpaz
