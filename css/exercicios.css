@@ -27,4 +27,5 @@ body {
     font-weight: 600;
     margin-bottom: 15px;
     border-bottom: 2px solid var(--dark);
+    color: var(--dark) !important;
 }
