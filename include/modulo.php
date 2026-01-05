@@ -9,7 +9,7 @@
             <li><a href="exercicios.php?dir=modulo01&file=aula04-comentario">Comentarios</a></li>
             <li><a href="exercicios.php?dir=modulo01&file=aula05-desafio">Desafio 01</a></li>
         </ul>
-    </div> 
+    </div>
     <div class="modulo">
         <h3>Modulo 02 - Tipos</h3>
         <ul>
@@ -20,5 +20,12 @@
             <li><a href="exercicios.php?dir=modulo02&file=aula11-desafio-string">Desafio String</a></li>
             <li><a href="exercicios.php?dir=modulo02&file=aula12-booleano">Tipo Booleano</a></li>
         </ul>
-    </div> 
+    </div>
+    <div class="modulo">
+        <h3>Modulo 02 - Variáveis</h3>
+        <ul>
+            <li><a href="exercicios.php?dir=modulo03&file=aula13-variaveis">Variáveis</a></li>
+            <li><a href="exercicios.php?dir=modulo03&file=aula15-atribuicoes">Atribuições</a></li>
+        </ul>
+    </div>
 </nav>
