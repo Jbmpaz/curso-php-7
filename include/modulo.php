@@ -22,10 +22,19 @@
         </ul>
     </div>
     <div class="modulo">
-        <h3>Modulo 02 - Variáveis</h3>
+        <h3>Modulo 03 - Variáveis</h3>
         <ul>
             <li><a href="exercicios.php?dir=modulo03&file=aula13-variaveis">Variáveis</a></li>
             <li><a href="exercicios.php?dir=modulo03&file=aula15-atribuicoes">Atribuições</a></li>
+        </ul>
+    </div>
+    <div class="modulo">
+        <h3>Modulo 10 - POO</h3>
+        <ul>
+            <li><a href="exercicios.php?dir=modulo10&file=aula150-heranca">Herança</a></li>
+            <li><a href="exercicios.php?dir=modulo10&file=aula151-visibilidade">Visibilidade</a></li>
+            <li><a href="exercicios.php?dir=modulo10&file=aula152-estaticos">Estáticos</a></li>
+            <li><a href="exercicios.php?dir=modulo10&file=aula153-inteface">Interface</a></li>
         </ul>
     </div>
 </nav>
